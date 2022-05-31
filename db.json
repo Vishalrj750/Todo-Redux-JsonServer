@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "todo": "Eat",
+      "status": false,
+      "id": "3059c308-67d0-466b-915f-d9b6a7b4c826"
+    },
+    {
+      "todo": "Sleep",
+      "status": false,
+      "id": "ab03a318-7e17-433e-9b8e-6f4320746c1f"
+    },
+    {
+      "todo": "Code",
+      "status": false,
+      "id": "15480847-38c3-480a-9747-0b5af84f351a"
+    },
+    {
+      "todo": "Drink Water",
+      "status": false,
+      "id": "0d977c30-b55a-4df4-9ad9-9ca6ab639b61"
+    },
+    {
+      "todo": "Eat Fruits",
+      "status": false,
+      "id": "bb1b2590-392f-4d8e-aaeb-3b9165a80d9b"
+    },
+    {
+      "todo": "Go to School",
+      "status": false,
+      "id": "ab8916d5-3eb1-4ea5-b275-c1c6ab1bf001"
+    },
+    {
+      "todo": "Come back Home",
+      "status": false,
+      "id": "ed0a2c37-9a71-4de2-ade3-d7e742012414"
+    },
+    {
+      "todo": "Watch Movie",
+      "status": false,
+      "id": "162a51c8-eb5e-404e-be10-c2e36102097c"
+    },
+    {
+      "todo": "Read Novels",
+      "status": false,
+      "id": "f522f496-4284-4c55-b35b-2277fd844ed1"
+    },
+    {
+      "todo": "Go to Market",
+      "status": false,
+      "id": "31172f71-2853-43b7-a8cf-da013e5eb3ee"
+    },
+    {
+      "todo": "Bring Milk",
+      "status": false,
+      "id": "8992663a-c00a-43c8-8a12-cc88d88e8313"
+    },
+    {
+      "todo": "Bring Wheat",
+      "status": false,
+      "id": "7a8a45f7-0dc5-4b07-882a-1ee06fd2e638"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
